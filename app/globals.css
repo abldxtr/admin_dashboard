@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .recharts-curve recharts-tooltip-cursor {
+  fill: "url(#MyGradient)";
+} */
